@@ -36,7 +36,7 @@ public class DoubleNode {
     }
 
     public DoubleNode getPrev(){
-        return prev ;
+        return prev ; 
     }
 
     

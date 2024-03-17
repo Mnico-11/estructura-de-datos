@@ -22,7 +22,7 @@ public class Node{
     public Object getData(){
         return data ;
     }
-    public Node getNext(){
+    public Node getNext(){ 
         return next ;
     }
 

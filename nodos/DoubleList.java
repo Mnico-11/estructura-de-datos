@@ -119,7 +119,7 @@ public class DoubleList {
             m.setPrev(n);
             m.setNext(nx);
             nx.setPrev(m);
-            size++;
+            size++; 
         }
     }
 }
